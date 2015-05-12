@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mis Bicis</string>
+
+    <string name="title_section1">Bicis</string>
+    <string name="title_section2">Reportes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="bicis">
+        <item>Bici1</item>
+        <item>Bici2</item>
+        <item>Bici3</item>
+        <item>Bici4</item>
+        <item>Bici5</item>
+    </string-array>
+    <string-array name="reportes">
+        <item>Reporte1</item>
+        <item>Reporte2</item>
+    </string-array>
+</resources>
